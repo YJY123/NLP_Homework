@@ -11,5 +11,7 @@ location.txt、location.txt、subway_line.txt是保存下来的相关地铁站�
 
 2019.8.4
 第四次课作业答案在HW_4文件夹中，分别为1. Wikipedia corpus预处理.ipynb
+
                                    2. Using gensim get word vectors.ipynb
+                                   
                                    3. Visualization word vector.ipynb
